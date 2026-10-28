@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm / IDE configuration
+.idea/
+.vscode/
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Output artifacts from runs
+ast_output.dot
+ast_output.png
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
